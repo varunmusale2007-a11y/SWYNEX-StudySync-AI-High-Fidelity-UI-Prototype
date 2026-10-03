@@ -40,7 +40,7 @@ prototype.
 ## Prototype
 
 Figma Prototype:
-PASTE YOUR FIGMA LINK HERE
+https://www.figma.com/community/file/1688281852369259962/studysync-ai-high-fidelity-ui-prototype
 
 ## Key Learning
 
